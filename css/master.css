@@ -1,0 +1,18 @@
+body {
+  background-color: #2a2d2f;
+  color: #eee;
+  font-size: 60pt;
+  font-family: 'Open Sans', sans-serif;
+  text-shadow: 2px 2px 4px #666;
+}
+
+
+.winner {
+  color: white;
+}
+
+div {
+  margin: 200 auto;
+  width: 95%;
+  text-align: center;
+}
